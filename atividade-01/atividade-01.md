@@ -11,7 +11,7 @@
 
 | Nome | Usuário no GitHub |
 |---|---|
-| Rafael Aires Pereira | [@Rafaelpereira07] |
+| Rafael Aires Pereira | @Rafaelpereira07 |
 
 **Elemento de Competência:** Compreender os fundamentos de qualidade de software e sua aplicação no desenvolvimento de sistemas.
 
