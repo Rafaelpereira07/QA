@@ -44,7 +44,7 @@ Sim. Um sistema pode implementar todas as funcionalidades solicitadas e ainda ap
 
 | Integrante | Funcionalidade | O que foi realizado | O que foi observado | Evidência |
 |---|---|---|---|---|
-| Rafael | Login | Foi realizada uma tentativa de acesso utilizando credenciais inválidas. | O sistema não realizou o acesso e apresentou a mensagem “Invalid credentials” em destaque na tela de login. | [ver evidência](atividade-01\evidencia-login-erro.png) |
+| Rafael | Login | Foi realizada uma tentativa de acesso utilizando credenciais inválidas. | O sistema não realizou o acesso e apresentou a mensagem “Invalid credentials” em destaque na tela de login. | [ver evidência](evidencia-login-erro.png) |
 
 ---
 
